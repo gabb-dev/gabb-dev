@@ -28,7 +28,7 @@ Aqui estão algumas das tecnologias com as quais tenho trabalhado:
 **Bancos de Dados e Ferramentas:**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,git,github,docker" />
+    <img src="https://skillicons.dev/icons?i=mysql,postgresql,git,github,docker" />
   </a>
 </p>
 <br>

@@ -43,9 +43,6 @@ Aqui estão algumas das tecnologias com as quais tenho trabalhado:
 </p>
 <br>
 
-## 🚀 Meus Projetos
-<br>
-
 ## 📫 Onde me encontrar
 
 <p align="left">

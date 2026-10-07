@@ -6,9 +6,9 @@
 
 ## 🧑‍💻 Sobre Mim
 
-Sou um estudante de Análise e Desenvolvimento de Sistemas (ADS). Sempre gostei de resolver problemas e tentar automatizar tarefas. 
+Sou um estudante de Análise e Desenvolvimento de Sistemas (ADS). Sempre gostei de resolver problemas e entender a lógica do que está acontecendo, principalmente no computador. 
 
-Atualmente, estou estagiando e aplicando meus conhecimentos de lógica e desenvolvimento com a linguagem ABAP, no ambiente SAP. Mas não deixei de estudar outras tecnologias, voltadas para o desenvolvimento WEB. Aplico todo o meu aprendizado em projetos pessoais e exercícios de prática que estão disponíveis nos meus repositórios. Meu principal objetivo é evoluir profissionalmente como desenvolvedor de software e um dia alcançar o conhecimento de um desenvolvedor especialista.
+Atualmente, estou estagiando e aplicando meus conhecimentos de lógica e desenvolvimento com a linguagem ABAP, no ambiente SAP. Mas não deixei de estudar outras tecnologias, voltadas para o desenvolvimento WEB. Aplico todo o meu aprendizado em projetos pessoais e exercícios de prática que estão disponíveis nos meus repositórios. Meu principal objetivo é evoluir profissionalmente como desenvolvedor de software back-end e um dia alcançar o conhecimento de um desenvolvedor back-end especialista.
 
 Estou aberto a oportunidades e novos desafios!
 

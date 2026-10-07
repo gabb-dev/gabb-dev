@@ -8,7 +8,7 @@
 
 Sou um estudante de Análise e Desenvolvimento de Sistemas (ADS). Sempre gostei de resolver problemas e tentar automatizar tarefas. 
 
-Atualmente, aplico tudo que aprendo em projetos pessoais que estão disponíveis nos meus repositórios. Meu principal objetivo é ingressar no mercado como estagiário para aprender na prática como um desenvolvedor se porta em uma empresa, suas atividades diárias e rotinas.
+Atualmente, estou estagiando e aplicando meus conhecimentos de lógica e desenvolvimento com a linguagem ABAP, no ambiente SAP. Mas não deixei de estudar outras tecnologias, voltadas para o desenvolvimento WEB. Aplico todo o meu aprendizado em projetos pessoais e exercícios de prática que estão disponíveis nos meus repositórios. Meu principal objetivo é evoluir profissionalmente como desenvolvedor de software e um dia alcançar o conhecimento de um desenvolvedor especialista.
 
 Estou aberto a oportunidades e novos desafios!
 
